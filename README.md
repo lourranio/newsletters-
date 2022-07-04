@@ -63,3 +63,14 @@ Looking for a great list of books 📚 covering Kubernetes? Look no futher than 
 
 Kubernetes News
 Looking for a list of newsletters like this related to Kubernetes? I've got you covered.
+
+ 
+# SRE 
+
+1. SRE Weekly
+* https://sreweekly.com/
+* SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.  SRE (Site/Service Reliability Engineering) isn’t just about automated failover or fault-tolerant architectures — although of course those are important.  It’s about a holistic view of reliability that takes into account everything from servers to human factors to processes to automation and more.
+
+2. Awesome Site Reliability Engineering
+* https://github.com/dastergon/awesome-sre
+* A curated list of awesome Site Reliability and Production Engineering resources.
