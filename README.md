@@ -1,4 +1,4 @@
-# newsletters- https://devopsnewsletters.com/
+# newsletters DEVOPS - https://devopsnewsletters.com/
 
 DevOps Newsletters
 DevOps Newsletters of Note
@@ -65,7 +65,7 @@ Kubernetes News
 Looking for a list of newsletters like this related to Kubernetes? I've got you covered.
 
  
-# SRE 
+# newsletters SRE 
 
 1. SRE Weekly
 * https://sreweekly.com/
