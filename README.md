@@ -17,11 +17,13 @@ Continuous learning is a critical part of DevOps. Staying current is imperative.
 * https://eks.news/
 * EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native
 
-KubeWeekly
-The weekly newsletters for all things Kubernetes.
+4. KubeWeekly
+* https://www.cncf.io/kubeweekly/
+* The weekly newsletters for all things Kubernetes.
 
-Last Week in AWS
-A weekly roundup of news from Amazon's cloud ecosystem — sprinkled with snark.
+5. Last Week in AWS
+* https://www.lastweekinaws.com/?rh_ref=7h1z3x
+* A weekly roundup of news from Amazon's cloud ecosystem — sprinkled with snark.
 
 Protocol Source Code
 You’re busy. Let us help you. What matters in tech, in your inbox every morning.
