@@ -9,8 +9,9 @@ Continuous learning is a critical part of DevOps. Staying current is imperative.
 * https://www.devopsweekly.com/
 * A weekly slice of devops news brought to you by Gareth Rushgrove.
 
-DevOps'ish
-DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the ‘ish between.
+2. DevOps'ish
+* https://devopsish.com/
+* DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the ‘ish between.
 
 EKS News
 EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native
