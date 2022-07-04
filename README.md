@@ -1,4 +1,4 @@
-# newsletters-
+# newsletters- https://devopsnewsletters.com/
 
 DevOps Newsletters
 DevOps Newsletters of Note
@@ -13,8 +13,9 @@ Continuous learning is a critical part of DevOps. Staying current is imperative.
 * https://devopsish.com/
 * DevOps, Cloud Native, Hybrid Cloud, Open Source, industry news, culture, and the ‘ish between.
 
-EKS News
-EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native
+3. EKS News
+* https://eks.news/
+* EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native
 
 KubeWeekly
 The weekly newsletters for all things Kubernetes.
