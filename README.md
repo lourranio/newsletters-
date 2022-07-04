@@ -5,7 +5,7 @@ DevOps Newsletters of Note
 
 Continuous learning is a critical part of DevOps. Staying current is imperative. These are DevOps newsletters of note from several well regarded DevOps leaders.
 
-Devops Weekly - https://www.devopsweekly.com/
+1. Devops Weekly - https://www.devopsweekly.com/
 A weekly slice of devops news brought to you by Gareth Rushgrove.
 
 DevOps'ish
